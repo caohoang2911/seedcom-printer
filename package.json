@@ -1,5 +1,5 @@
 {
-  "name": "react-native-bluetooth-escpos-printer",
+  "name": "print-label",
   "version": "0.0.5",
   "description": "React-Native plugin for the bluetooth ESC/POS printers.",
   "main": "index.js",
